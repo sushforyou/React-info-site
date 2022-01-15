@@ -1,0 +1,11 @@
+.footer{
+    background-color: #131212;
+    width: 96%;
+    height: 5vh;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    color:white;
+    text-align: center;
+    padding-top: 1%
+}

@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    gap: 2%;
+}
+.react-container{
+    background-color: #131212;
+    width: 50%;
+    height: 75vh;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    margin-bottom: 2%;
+}
+.txtClass {
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 5%;
+    color: white;
+}

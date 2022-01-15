@@ -1,0 +1,38 @@
+.header{
+    background-color: #131212;
+    width: 96%;
+    height: 20vh;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    margin-bottom: 2%;
+}
+.imagesDiv{
+    display: flex;
+    align-items: center;
+}
+ .imagesDiv > .react-rect{
+    width: 60%;
+    height: 60%;
+    margin-left:15%;
+}
+.imagesDiv > .angular-rect{
+    width: 40%;
+    height: 35%;
+    margin-left: 30%;
+}
+.imagecrop{
+    width: 50%;
+    height: 50%;
+}
+.imageCropAng{
+    width: 50%;
+    height: 30%;
+    margin-bottom: 5%;
+}
+.middleText{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 5%;
+}

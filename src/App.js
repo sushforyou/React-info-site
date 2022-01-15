@@ -1,8 +1,13 @@
+import Header from './HeaderComponent';
+import MainContainer from './MainContainerComponent'
+import Footer from './FooterComponent'
+import './App.css';
 function App() {
   return (
-    <div>
-    Welcome to the first page
-    
+    <div className='root-div'>
+      <Header />
+      <MainContainer />
+      <Footer />
     </div>
   );
 }
