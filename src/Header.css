@@ -36,3 +36,44 @@
     font-weight: 700;
     margin-left: 5%;
 }
+@media only screen and (max-width: 600px) {
+    .header{
+        background-color: #131212;
+        width: 96%;
+        height: 8vh;
+        margin-right: 2%;
+        margin-left: 2%;
+        border-radius: 20px;
+        margin-bottom: 2%;
+    }
+    .imagesDiv{
+        display: flex;
+        align-items: left;
+    }
+    .imagesDiv > .react-rect{
+        width: 60%;
+        height: 75%;
+   
+    }
+    .imagesDiv > .angular-rect{
+        width: 60%;
+        height: 75%;
+     
+    }
+    .imagecrop{
+        width: 100%;
+        height: 100%;
+    }
+    .imageCropAng{
+        width: 80%;
+        height: 70%;
+        margin-bottom: 5%;
+        margin-right:10%;
+    }
+    .middleText{
+        color: white;
+        font-size: 20px;
+        font-weight: 400;
+        margin-left: 10%;
+    }
+}
